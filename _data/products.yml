@@ -1,0 +1,19 @@
+- name: "T-Shirt"
+  image: "https://via.placeholder.com/250"
+  description: "Comfortable cotton t-shirt with a modern fit."
+  price: "$19.99"
+
+- name: "Jeans"
+  image: "https://via.placeholder.com/250"
+  description: "Stylish denim jeans with a slim fit."
+  price: "$39.99"
+
+- name: "Jacket"
+  image: "https://via.placeholder.com/250"
+  description: "Warm and cozy jacket for winter."
+  price: "$49.99"
+
+- name: "Sneakers"
+  image: "https://via.placeholder.com/250"
+  description: "Trendy sneakers with excellent comfort."
+  price: "$59.99"
